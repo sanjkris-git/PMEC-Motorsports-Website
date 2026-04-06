@@ -1,4 +1,4 @@
-Purdue Motorsports Engineering Club (PMEC) Website
+#Purdue Motorsports Engineering Club (PMEC) Website
 The official club website for the Purdue Motorsports Engineering Club, built to showcase our engineering projects, team leadership, event accolades, and sponsorship opportunities. It serves as a central hub for prospective members and potential partners to see our work in both the Purdue Grand Prix and Autocross competitions.
 
 Link to project: https://mecpurdue.com/
